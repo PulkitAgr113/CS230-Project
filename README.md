@@ -1,0 +1,3 @@
+This repository contains the project done by [Aditya Jain](https://github.com/adityajain3jan), [Ashwin Ramachandran](https://github.com/AshwinRamachandran2002), [Pulkit Agarwal](https://github.com/PulkitAgr113), [Vaibhav Raj](https://github.com/scimaths) for the course Digital Logic Design and Computer Architecture (CS230).
+
+The code has been written in VHDL and python, and can be run using Intel Quartus Prime.

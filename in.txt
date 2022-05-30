@@ -1,0 +1,17 @@
+adi r1 r1 1
+adl r3 r0 r1
+adi r4 r4 8
+adi r5 r5 7
+adi r7 r7 30
+adi r6 r6 30
+sw r0 r7 0
+sw r1 r7 1
+add r1 r1 r0
+sw r1 r7 2
+lw r0 r7 1
+lw r1 r7 2
+adi r7 r7 1
+adi r3 r3 1
+beq r3 r4 2
+jalr r2 r5
+lm r6 230
